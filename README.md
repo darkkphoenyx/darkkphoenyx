@@ -23,7 +23,7 @@ while(alive)
 [![Static Badge](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&label=deepesh&labelColor=blue&color=black)
 ](https://www.facebook.com/deepesh.singhsunuwar)
 
-## 🛠 Language Known
+## 🛠 Skills
 
 <p align="left">
 <!-- c -->
