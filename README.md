@@ -1,6 +1,6 @@
-# 🙏 Namaste 🙏
+# Hi 👋
 
-- Hi 👋, I'm [Deepesh Sunuwar](deepgeneral33@gmail.com), a keen enthusiast to learn new things in Computer Science from Nepal 🇳🇵.
+-  I'm [Deepesh Sunuwar](deepgeneral33@gmail.com), a keen enthusiast to learn new things in Computer Science from Nepal 🇳🇵.
 - UnderGraduate student of BSc.CSIT at [Texas International](https://texasintl.edu.np/).
 
 ```c++
