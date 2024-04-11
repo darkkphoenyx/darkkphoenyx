@@ -54,7 +54,7 @@ while(alive)
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darkkphoenyx&theme=github-dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=576)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darkkphoenyx&theme=github-dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=846)](https://git.io/streak-stats)
   
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/blackkspydo/blackkspydo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
