@@ -1,5 +1,5 @@
 <p align="center">
-   <img width=640px height=320px src="./banner.gif" alt="cube gif is her"/>
+   <img width=940px height=350px src="./banner.gif" alt="cube gif is her"/>
 </p>
 
 # Hi 👋, I'm [Deepesh Sunuwar](deepgeneral33@gmail.com)
@@ -7,7 +7,6 @@
 **A keen enthusiast to learn new things in Computer Science from Nepal 🇳🇵.**
 
 - UnderGraduate student of BSc.CSIT at [Texas International.](https://texasintl.edu.np/)
-
 
 ```c++
 while(alive)
