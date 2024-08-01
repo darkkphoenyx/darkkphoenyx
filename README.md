@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./banner.gif" alt="banner"/>
+<img src="./cover.gif" alt="banner"/>
 </p>
 
 # Hi 👋, I'm [Deepesh Sunuwar](deepgeneral33@gmail.com)
