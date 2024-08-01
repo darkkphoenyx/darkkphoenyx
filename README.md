@@ -1,5 +1,5 @@
 <p align="center">
-   <img width=940px height=350px src="./banner.gif" alt="cube gif is her"/>
+   <img  src="./banner.gif" alt="cube gif is her"/>
 </p>
 
 # Hi 👋, I'm [Deepesh Sunuwar](deepgeneral33@gmail.com)
