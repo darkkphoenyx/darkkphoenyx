@@ -1,6 +1,3 @@
-<p align="center">
-   <img  src="./banner.gif" alt="cube gif is her"/>
-</p>
 
 # Hi 👋, I'm [Deepesh Sunuwar](deepgeneral33@gmail.com)
 
