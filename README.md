@@ -2,7 +2,7 @@
 <img src="./cover.gif" alt="banner"/>
 </p>
 
-# Hi 👋, I'm [Deepesh Sunuwar](deepgeneral33@gmail.com)
+# Hi 👋, I'm [Deepesh Sunuwar](https://darkkphoenyx-portfolio.vercel.app/)
 
 **A keen enthusiast to learn new things in Computer Science from Nepal 🇳🇵.**
 
