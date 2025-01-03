@@ -67,10 +67,10 @@ while(alive)
 
 <a href="https://www.linkedin.com/in/deepeshsunuwar/">
 <img height='40px' src="./linkedin.png" alt="linked logo"/>
-</a> &nbsp;&nbsp;
+</a> &nbsp;
 <a href="https://www.facebook.com/deepesh.sunuwar.08">
 <img height='40px' src="./facebook.png" alt="linked logo"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://www.instagram.com/sun_deepesh/">
 <img height='40px' src="./instagram.png" alt="linked logo"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
