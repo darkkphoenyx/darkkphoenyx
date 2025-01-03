@@ -14,26 +14,11 @@
  
  🏫 I’m currently studying at [**Texas International.**](https://texasintl.edu.np/)
 
-💬 Ask me [here](https://github.com/darkkphoenyx/darkkphoenyx/issues)\*\*
+💬 Ask me [here](https://github.com/darkkphoenyx/darkkphoenyx/issues)
 
 ⚡ Fun fact **INTEL stand for INtegraged ELctronics**
 
  </div>
-
-<div align="left">
-
-```c++
-while(alive)
-{
-   eat();
-   code();
-   learnNewThing();
-   enjoy();
-   sleep();
-}
-```
-
-</div>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/deepeshsunuwar/">
@@ -65,7 +50,7 @@ while(alive)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darkkphoenyx/darkkphoenyx/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
