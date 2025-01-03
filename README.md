@@ -44,9 +44,14 @@ while(alive)
 </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
-## 🔗 Links
+## 🔗 Connect With Me
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&label=deepesh&labelColor=blue&color=blue)
-](https://www.linkedin.com/in/deepesh-sunuwar-6237351aa/)  
-[![Static Badge](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&label=deepesh&labelColor=blue&color=black)
-](https://www.facebook.com/deepesh.sunuwar.08)
+<a href="https://www.linkedin.com/in/deepeshsunuwar/">
+<img height='40px' src="./linkedin.png" alt="linked logo"/>
+</a>
+<a href="https://www.facebook.com/deepesh.sunuwar.08">
+<img height='40px' src="./facebook.png" alt="linked logo"/>
+</a>
+<a href="https://www.instagram.com/sun_deepesh/">
+<img height='40px' src="./instagram.png" alt="linked logo"/>
+</a>
