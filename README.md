@@ -18,7 +18,7 @@
 
 💬 Ask me [here](https://github.com/darkkphoenyx/darkkphoenyx/issues)
 
-⚡ Fun fact **INTEL stand for INtegraged ELectronics**
+⚡ Fun fact **INTEL stand for INTegraged ELectronics**
 
  </div>
 
