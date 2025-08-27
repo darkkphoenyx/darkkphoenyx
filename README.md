@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/sun_deepesh/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-    <a href="https://darkkphoenyx-portfolio.vercel.app/">
+    <a href="https://thedeepesh.vercel.app/">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
 </div>
 
@@ -62,7 +62,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-
 
 <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=darkkphoenyx&count_private=true&theme=react&border_radius=10">
 <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=darkkphoenyx&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
