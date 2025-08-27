@@ -16,7 +16,9 @@
  
  🏫 I’m currently studying at [**Texas International.**](https://texasintl.edu.np/)
 
-💬 Ask me [here](https://github.com/darkkphoenyx/darkkphoenyx/issues)
+🏢 Currently employed at [**Brahma Byte Lab**](https://brahmabytelab.com/)
+
+💬 Ask me [**here**](https://github.com/darkkphoenyx/darkkphoenyx/issues)
 
 ⚡ Fun fact **INTEL stands for INTegrated ELectronics**
 
