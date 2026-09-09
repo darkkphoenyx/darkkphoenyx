@@ -13,10 +13,10 @@
 <br/>
 
 <div align="center">
- 
+
  🏫 I’m currently studying at [**Texas International.**](https://texasintl.edu.np/)
 
-🏢 Currently employed at [**Brahma Byte Lab**](https://brahmabytelab.com/)
+<!-- 🏢 Currently employed at [**Brahma Byte Lab**](https://brahmabytelab.com/) -->
 
 💬 Ask me [**here**](https://github.com/darkkphoenyx/darkkphoenyx/issues)
 
@@ -24,12 +24,12 @@
 
  </div>
 
-<div align="center"> 
+<div align="center">
   <a href="https://www.linkedin.com/in/deepeshsunuwar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/deepesh.sunuwar.08">
-     <img src="https://img.shields.io/badge/Facebook-005FED?style=for-the-badge&logo=facebook&logoColor=white" /> 
+     <img src="https://img.shields.io/badge/Facebook-005FED?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/sun_deepesh/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -39,7 +39,7 @@
 </div>
 
  <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -56,7 +56,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/darkkphoenyx/darkkphoenyx/output/github-contribution-grid-snake.svg" />
-  
+
   <br/>
 </div>
 
